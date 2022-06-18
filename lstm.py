@@ -5,9 +5,9 @@ import numpy as np
 # from keras.models import load_model
 # import streamlit as st
 import pandas as pd
-# import pandas_datareader as data
-# import matplotlib.pyplot as plt
-# import pandas_datareader as pdr
+import pandas_datareader as data
+import matplotlib.pyplot as plt
+import pandas_datareader as pdr
 # from keras.models import load_model
 import streamlit as st
 import numpy as np
